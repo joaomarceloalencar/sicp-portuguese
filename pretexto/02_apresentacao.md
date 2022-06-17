@@ -46,4 +46,4 @@ A medida que você ler este livro, preste atenção não apenas para as constru�
 
 Primitivas, meios de combinação, abstrações funcionais, nomeação e convenções para utilizar uma estrutura de dados universal de maneira especializada ao delinear distinções: estes são os blocos fundamentais de uma boa linguagem de programação. A partir daí, imaginação e bom julgamento de engenharia baseado em experiência podem fazer o resto.
 
-Guy L. Steel Jr., Lexington, Massachusetts, 2021.  
+[Guy L. Steel Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.), Lexington, Massachusetts, 2021.  
